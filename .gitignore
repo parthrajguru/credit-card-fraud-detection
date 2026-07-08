@@ -1,0 +1,12 @@
+# Raw data files (too large for GitHub, download from Kaggle instead)
+fraudTest.csv
+fraudTrain.csv
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
